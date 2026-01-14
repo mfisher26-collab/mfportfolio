@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Work - Matthew Fisher</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <h1 class="nav-logo">Matthew Fisher</h1>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="work.html" class="nav-link active">My Work</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <section class="work-section">
+            <h2 class="section-title">My Work</h2>
+            <p class="section-subtitle">A collection of my published articles and essays</p>
+
+            <!-- TO ADD ARTICLES: Edit the articles array in config.js -->
+            <div class="articles-container" id="articlesContainer">
+                <p>Loading articles...</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2026 Matthew Fisher. All rights reserved.</p>
+    </footer>
+
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
