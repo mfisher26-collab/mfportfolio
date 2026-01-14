@@ -17,13 +17,20 @@ if (document.getElementById('articlesContainer')) {
     } else {
         container.innerHTML = articles.map(article => `
             <div class="article-card">
-                <h3 class="article-title">
-                    <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="article-link">
-                        ${article.title}
-                    </a>
-                </h3>
-                ${article.publication ? `<p class="article-publication">${article.publication}</p>` : ''}
-                <p class="article-description">${article.description}</p>
+                ${article.image ? `
+                    <div class="article-image-container">
+                        <img src="${article.image}" alt="${article.title}" class="article-image">
+                    </div>
+                ` : ''}
+                <div class="article-content">
+                    <h3 class="article-title">
+                        <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="article-link">
+                            ${article.title}
+                        </a>
+                    </h3>
+                    ${article.publication ? `<p class="article-publication">${article.publication}</p>` : ''}
+                    <p class="article-description">${article.description}</p>
+                </div>
             </div>
         `).join('');
     }
