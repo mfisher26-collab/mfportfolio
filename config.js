@@ -9,8 +9,9 @@ const profileConfig = {
     bio: `I am a senior at Amherst College with a passion for storytelling and investigative journalism.
     My work focuses on uncovering compelling narratives and examining the issues that matter most to our communities.
 
-    I am particularly interested in long-form journalism, feature writing, and investigative reporting.
-    Through my work, I strive to bring clarity to complex topics and amplify underrepresented voices.`
+    I am a journalist with experience reporting on local community issues and campus life. I have published news and feature articles for The Amherst Student and written news releases for the Amherst College Alumni magazine.
+
+    I am seeking internships and entry-level roles that allow me to continue developing as a reporter and contribute meaningful work to a newspaper or other journalistic organization.`
 };
 
 // ARTICLES AND ESSAYS
