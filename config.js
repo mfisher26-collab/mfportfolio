@@ -55,7 +55,14 @@ const articles = [
         url: "https://www.amherst.edu/news/news_releases/2025/november/free-book-fair",
         description: "Reporting on a free book fair focused on accessibility, reuse, and student support.",
         image: "article_imgs/article6.jpg"
-    }
+    }, 
+    {       
+        title: "Local Lookout: Antonio’s Pizza",
+    //  publication: "The Amherst Student",
+    //  url: "https://https://amherststudent.com/article/local-lookout-antonios-pizza/",
+    //  description: "Looking into how a town favorite establishment handles the late night rush.",
+    //  image: "article_imgs/articleX.jpg"
+        
     // Add more articles below following this format:
     // {
     //     title: "Your Article Title",
@@ -64,6 +71,8 @@ const articles = [
     //     description: "A one-sentence description of your article.",
     //     image: "article_imgs/articleX.jpg"
     // },
+
+    
 ];
 
 // ========================================
