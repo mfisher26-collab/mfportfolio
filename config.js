@@ -69,7 +69,14 @@ const articles = [
         url: "https://amherststudent.com/article/tandem-bagels-to-return-to-val-once-a-month/",
         description: "Investigating the changes in a controversial Dining Hall Policy as students voice their complaints.",
         image: "article_imgs/Article8.jpg"
-    }, 
+    },  
+    { 
+        title: "Shoveling through the Storm: Custodial Perspectives",
+        publication: "The Amherst Student",
+        url: "https://amherststudent.com/article/shoveling-through-the-storm-highlighting-custodial-perspectives-2/",
+        description: "Reporting on how custodial and grounds crews worked through the worst winter storm to hit the region in 20 years.",
+        image: "article_imgs/article 9.jpg"
+     }, 
     
         
     // Add more articles below following this format:
