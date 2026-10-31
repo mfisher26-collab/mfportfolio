@@ -36,6 +36,13 @@ const articles = [
         image: "article_imgs/article11.jpg"
     },
     {
+        title: "US Forest Service plan could affect up to 85,000 acres of Tennessee land",
+        publication: "WBIR",
+        url: "https://www.wbir.com/article/tech/science/environment/us-forest-service-plan-could-affect-up-85000-acres-tennessee-land/51-88fb5ba4-db69-495d-84bf-59a39585a168",
+        description: "The U.S. Forest Service is moving forward with a plan that could rescind the 2001 Roadless Rule.",
+        image: "article_imgs/article13.jpg"
+    }, 
+    {
         title: "GSMNP has 2nd most accidental deaths from 2014-2022, study finds",
         publication: "WBIR",
         url: "https://www.wbir.com/article/sports/outdoors/gsmnp-2nd-most-accidental-deaths-from-study-finds/51-b9346d7f-4c46-4a07-9134-a8dc3de48cd2",
