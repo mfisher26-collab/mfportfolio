@@ -41,6 +41,21 @@ const articles = [
         url: "https://www.wbir.com/article/tech/science/environment/us-forest-service-plan-could-affect-up-85000-acres-tennessee-land/51-88fb5ba4-db69-495d-84bf-59a39585a168",
         description: "The U.S. Forest Service is moving forward with a plan that could rescind the 2001 Roadless Rule.",
         image: "article_imgs/article13.jpg"
+        
+    }, 
+    {
+        title: "Sixth Circuit Court strikes down Tennessee law criminalizing abortion assistance to minors",
+        publication: "WBIR",
+        url: "https://www.wbir.com/article/news/politics/national-politics/sixth-circuit-court-strikes-down-tennessee-law-criminalizing-abortion-assistance-minors/51-eb95d01d-15e8-4be6-a97d-0f4d78dfc271",
+        description: "The Sixth Circuit blocked Tennessee's Recruitment Provision under the First Amendment, affecting abortion access information for minors.",
+        image: "article_imgs/article14.jpg"    
+    }, 
+    {
+        title: "Tennessee on list of 5 states to potentially host Nuclear Lifecycle Innovation program",
+        publication: "WBIR",
+        url: "https://www.wbir.com/article/news/local/nashville/tennessee-on-list-of-states-nuclear-lifecycle-innovation-program/51-43671595-feb8-4879-8073-d55a0c25b8b8",
+        description: "Gov. Bill Lee announced Tennessee is a finalist to accept nuclear waste from around the country, but Sen. Heidi Campbell criticizes the decision.",
+        image: "article_imgs/article15.jpg"    
     }, 
     {
         title: "GSMNP has 2nd most accidental deaths from 2014-2022, study finds",
