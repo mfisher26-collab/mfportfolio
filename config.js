@@ -22,6 +22,27 @@ const articles = [
         image: "article_imgs/article1.png"
     },
     {
+        title: "UT Research Foundation sues AI firm Anthropic for alleged patent infringement",
+        publication: "WBIR",
+        url: "https://www.wbir.com/article/news/local/knoxville/university-of-tennessee-research-foundation-sues-anthropic/51-cf5be97b-f597-4170-b7ed-1d749dc88570",
+        description: "UTRF, which is closely connected to the University of Tennessee, claims the AI giant stole its inventions and violated its patent rights",
+        image: "article_imgs/article10newimg.jpg"
+    },
+    {
+        title: "'It's an insult to the people of Tennessee' | Death penalty expert reacts to failed execution",
+        publication: "WBIR",
+        url: "https://www.wbir.com/article/news/crime/christa-pike/its-an-insult-to-the-people-of-tennessee-death-penalty-expert-reacts-to-failed-execution/51-23962c4a-8684-46f3-ae64-bdcd0287e569",
+        description: "A professor who studied botched executions said Christa Pike was the first person to receive lethal injection drugs and survive.",
+        image: "article_imgs/article11.jpg"
+    },
+    {
+        title: "GSMNP has 2nd most accidental deaths from 2014-2022, study finds",
+        publication: "WBIR",
+        url: "https://www.wbir.com/article/sports/outdoors/gsmnp-2nd-most-accidental-deaths-from-study-finds/51-b9346d7f-4c46-4a07-9134-a8dc3de48cd2",
+        description: "The national park tallied 58 accidental deaths in the 8-year period, according to analysis from outdoor research organization Outforia.",
+        image: "article_imgs/article12.jpg"
+    },
+    {
         title: "Civil War Tablets Exhibit Honors Black Soldiers' Legacy",
         publication: "The Amherst Student",
         url: "https://amherststudent.com/article/a-legacy-commemoration-civil-war-tablets/",
